@@ -1,4 +1,4 @@
-bw-theme
-========
+Bristol Wireless theme
+======================
 
-WordPress theme for Bristol Wireless
+A WordPress theme for Bristol Wireless.
